@@ -1,0 +1,22 @@
+{
+  "name": "serverpush",
+  "version": "1.0.0",
+  "description": "Demo de server push",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dante2869/ServerPush.git"
+  },
+  "author": "Oscar Arellano M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dante2869/ServerPush/issues"
+  },
+  "homepage": "https://github.com/dante2869/ServerPush#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
